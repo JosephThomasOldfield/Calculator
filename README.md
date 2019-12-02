@@ -10,7 +10,7 @@ This project uses *react*, *html*, *css*, and *node*. I use these technologies t
 - Passed props and used navLoader Efficientley to create the calculator.
 - support for both mobile and desktop with flexbox
 
-## Imporvements
+## Improvements
 
 - Hover functionality could be added for cleaner look.
 - functionality for more complex functions such as SquareRoot / PowerOf. 
